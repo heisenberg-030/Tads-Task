@@ -1,4 +1,4 @@
-# Tads-Task
+# Tads-Git-Task
 Your task for the Git Workshop.
 
 ## Resources
